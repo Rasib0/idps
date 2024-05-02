@@ -1,0 +1,76 @@
+text2.txt.tag removed
+test1.txt.tag removed
+text3.txt.tag removed
+------------------------------
+text2.txt.tag created
+text3.txt.tag created
+test1.txt.tag created
+------------------------------
+Check number: 1
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 2
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 3
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 4
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 5
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 6
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 7
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 8
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 9
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 10
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 11
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 12
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 13
+Verifing text2.txt and text2.txt.tag
+Verifing text3.txt and text3.txt.tag
+Verifing test1.txt and test1.txt.tag
+------------------------------
+Check number: 14
+Verifing text2.txt and text2.txt.tag
+Intruder Detected in file:  files/text2.txt
